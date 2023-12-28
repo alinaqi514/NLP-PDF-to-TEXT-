@@ -1,0 +1,20 @@
+Key,Value
+L a b  I n s t r u c t o r,R a b i a  K h a n
+Lab 07,Queue in Data Structure
+Implementation,
+"Like stacks, Queues can also be represented in an array","In this representation, the Queue is implemented"
+ Queue,the name of the array storing queue elements.
+ Front,the index where the first element is stored in the array representing the queue.
+ Rear,the index where the last element is stored in an array representing the queue.
+Enqueue,
+Dequeue,
+Learning Outcomes,
+Tasks,
+1. Basic Queue Implementation,
+2. Priority Queue,
+3. Job Submission,
+4. Print Job Processing,
+5. Job Status Checking,
+6. Circular Queue Implementation,
+9. Error Handling,
+10. Logging and Statistics,
